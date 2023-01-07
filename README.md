@@ -1,6 +1,6 @@
 # Description
 
-Tool lấy lịch bận của mọi người và chia lịch sao cho mỗi buổi học đều có số người >= 1 ngưỡng cho trước, sử dụng thuật toán luồng cực đại(https://vnoi.info/wiki/translate/wcipeg/Flows) để xây dựng lịch học dựa trên lịch bận của thành viên.
+Tool lấy lịch bận của mọi người và chia lịch sao cho mỗi buổi học đều có số người >= 1 ngưỡng cho trước, sử dụng thuật toán luồng cực đại (https://vnoi.info/wiki/translate/wcipeg/Flows) để xây dựng lịch học dựa trên lịch bận của thành viên.
 
 Một nhóm có rất đông sinh viên, các sinh viên được phân vào n nhóm, mỗi nhóm học 2 buổi trong tuần.
 
