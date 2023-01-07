@@ -26,4 +26,4 @@ limit_depth : nên lấy <= 10^5, hoac <=10^4
 
 answer.txt: là file chứa các trường hợp sinh được (nhưng có thể chưa là tối ưu nhất)
 
-#MADE BY PHUONG NAM FROM PROPTIT WITH LOVE <3
+# MADE BY PHUONG NAM FROM PROPTIT WITH LOVE <3
