@@ -1,0 +1,4 @@
+python==3.10
+pandas==1.51
+numpy==1.23.4
+six==1.16.0
